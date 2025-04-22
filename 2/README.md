@@ -60,3 +60,4 @@ print("Задача 3:", find_number_with_max_divisors(84052, 84130))
 1. https://habr.com/ru/companies/otus/articles/529356/
 2. https://docs.python.org/3/library/itertools.html
 3. https://proglib.io/p/iteriruemsya-pravilno-20-priemov-ispolzovaniya-v-python-modulya-itertools-2020-01-03
+zzzzzzzzzzzzzzzzzzzzzzz

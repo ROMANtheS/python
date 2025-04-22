@@ -57,6 +57,6 @@ print("Задача 3:", find_number_with_max_divisors(84052, 84130))
 **Результат**: ![alt text](image-2.png)
 
 ### Ссылки на используемые материалы:
-https://habr.com/ru/companies/otus/articles/529356/
-https://docs.python.org/3/library/itertools.html
-https://proglib.io/p/iteriruemsya-pravilno-20-priemov-ispolzovaniya-v-python-modulya-itertools-2020-01-03
+1. habr.com/ru/companies/otus/articles/529356/
+2. docs.python.org/3/library/itertools.html
+3. proglib.io/p/iteriruemsya-pravilno-20-priemov-ispolzovaniya-v-python-modulya-itertools-2020-01-03

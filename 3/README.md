@@ -36,8 +36,8 @@ def find_iterative(obj, target):
                 stack.append((current_obj[i], path + [i]))
     return None
 ```
-**Результат**: С рекурсией - ![alt text](image-1.png)
-Без рекурсии - ![alt text](image-2.png)
+**Результат с рекурсией**:![alt text](image-1.png)
+**Результат без рекурсии**:![alt text](image-2.png)
 
 ### Задача 2: Функция для расчета уравнения ![alt text](image.png)
 ```python
@@ -59,8 +59,8 @@ def calculate_iterative(k, u, v):
         a, b = a_new, b_new
     return (a, b)
 ```
-**Результат**: С рекурсией - ![alt text](image-3.png)
-Без - ![alt text](image-4.png)
+**Результат с рекурсией**:![alt text](image-3.png)
+**Результат без рекурсии**:![alt text](image-4.png)
 
 ### Ссылки на используемые материалы:
 1. https://youtu.be/IJDJ0kBx2LM

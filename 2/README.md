@@ -19,7 +19,7 @@ def count_codes():
             total += 1
     return total
 ```
-**Результат**: ![alt text](image.png)
+#### Результат: ![alt text](image.png)
 
 ### Задача 2: Система счисления
 ```python
@@ -28,7 +28,7 @@ def count_zeros_in_octal():
     octal = oct(expression)[2:]
     return octal.count('0')
 ```
-**Результат**: ![alt text](image-1.png)
+#### Результат: ![alt text](image-1.png)
 
 ### Задача 3: Делители
 ```python
@@ -54,9 +54,9 @@ print("Задача 1:", count_codes())
 print("Задача 2:", count_zeros_in_octal())
 print("Задача 3:", find_number_with_max_divisors(84052, 84130))
 ```
-**Результат**: ![alt text](image-2.png)
+#### Результат: ![alt text](image-2.png)
 
-### Ссылки на используемые материалы:
+##### Ссылки на используемые материалы:
 1. https://habr.com/ru/companies/otus/articles/529356/
 2. https://docs.python.org/3/library/itertools.html
 3. https://proglib.io/p/iteriruemsya-pravilno-20-priemov-ispolzovaniya-v-python-modulya-itertools-2020-01-03

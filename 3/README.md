@@ -36,8 +36,8 @@ def find_iterative(obj, target):
                 stack.append((current_obj[i], path + [i]))
     return None
 ```
-**Результат с рекурсией**:![alt text](image-1.png)
-**Результат без рекурсии**:![\nalt text](image-2.png)
+#### Результат с рекурсией:![alt text](image-1.png)
+#### Результат без рекурсии**:![alt text](image-2.png)
 
 ### Задача 2: Функция для расчета уравнения ![alt text](image.png)
 ```python
